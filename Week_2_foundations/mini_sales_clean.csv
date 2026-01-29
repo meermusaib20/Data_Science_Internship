@@ -3,9 +3,9 @@ order_id,customer,city,category,price,quantity,order_date,rating
 202,Ayaan,Pampore,Clothing,1200,2.0,2025-01-02,4.0
 203,Zara,Srinagar,Books,450,3.0,2025-01-03,3.8
 204,Huzaifa,Anantnag,Electronics,52000,1.0,2025-01-04,4.7
-205,Sana,Pulwama,Clothing,1500,2.0,2025-01-05,4.1
+205,Sana,Pulwama,Clothing,1500,,2025-01-05,4.1
 206,Rehan,Srinagar,Groceries,800,5.0,2025-01-06,3.5
-207,Aariz,Anantnag,Books,300,2.0,2025-01-07,3.908571428571429
+207,Aariz,Anantnag,Books,300,2.0,2025-01-07,
 208,Mehak,Pampore,Electronics,48000,1.0,2025-01-08,4.6
 209,Iqra,Srinagar,Groceries,650,4.0,2025-01-09,3.9
 210,Faisal,Pulwama,Clothing,99999,1.0,2025-01-10,2.0
@@ -20,14 +20,14 @@ order_id,customer,city,category,price,quantity,order_date,rating
 219,Amina,Pulwama,Books,550,2.0,2025-01-19,4.1
 220,Uzair,Anantnag,Electronics,51000,1.0,2025-01-20,4.6
 221,Sara,Srinagar,Clothing,1400,1.0,2025-01-21,3.8
-222,Faizan,Pampore,Groceries,750,3.0,2025-01-22,3.908571428571429
+222,Faizan,Pampore,Groceries,750,3.0,2025-01-22,
 223,Kiran,Pulwama,Books,350,2.0,2025-01-23,3.6
 224,Adil,Srinagar,Electronics,46000,1.0,2025-01-24,4.2
 225,Mariam,Anantnag,Clothing,1250,2.0,2025-01-25,4.0
 226,Arif,Pampore,Groceries,680,4.0,2025-01-26,3.7
 227,Noor,Srinagar,Books,420,1.0,2025-01-27,3.9
 228,Saif,Pulwama,Electronics,49500,1.0,2025-01-28,4.5
-229,Rabia,Anantnag,Clothing,1350,2.0,2025-01-29,4.1
+229,Rabia,Anantnag,Clothing,1350,,2025-01-29,4.1
 230,Taha,Srinagar,Groceries,820,5.0,2025-01-30,3.5
 231,Zain,Pampore,Books,380,2.0,2025-01-31,3.8
 232,Areeba,Pulwama,Electronics,50500,1.0,2025-02-01,4.6
@@ -37,7 +37,7 @@ order_id,customer,city,category,price,quantity,order_date,rating
 236,Haroon,Srinagar,Electronics,44000,1.0,2025-02-05,4.3
 237,Anum,Pulwama,Clothing,1450,2.0,2025-02-06,4.2
 238,Rauf,Anantnag,Groceries,690,4.0,2025-02-07,3.7
-239,Yumna,Srinagar,Books,410,1.0,2025-02-08,3.908571428571429
+239,Yumna,Srinagar,Books,410,1.0,2025-02-08,
 240,Kashif,Pampore,Electronics,48500,1.0,2025-02-09,4.4
 241,Sumbul,Pulwama,Clothing,1320,2.0,2025-02-10,4.0
 242,Asad,Srinagar,Groceries,830,5.0,2025-02-11,3.5
@@ -57,7 +57,7 @@ order_id,customer,city,category,price,quantity,order_date,rating
 256,Furqan,Pampore,Electronics,49000,1.0,2025-02-25,4.5
 257,Aaliya,Pulwama,Clothing,1420,2.0,2025-02-26,4.2
 258,Salman,Anantnag,Groceries,700,4.0,2025-02-27,3.7
-259,Hamza,Srinagar,Books,410,2.0,2025-02-28,3.908571428571429
+259,Hamza,Srinagar,Books,410,2.0,2025-02-28,
 260,Pari,Pampore,Electronics,46500,1.0,2025-03-01,4.3
 261,Ayaan,Srinagar,Clothing,1210,1.0,2025-03-02,3.8
 262,Zubair,Anantnag,Groceries,840,5.0,2025-03-03,3.4
@@ -97,7 +97,7 @@ order_id,customer,city,category,price,quantity,order_date,rating
 296,Danial,Pampore,Electronics,46500,1.0,2025-04-06,4.3
 297,Zoya,Pulwama,Clothing,1310,2.0,2025-04-07,4.0
 298,Aamir,Anantnag,Groceries,760,4.0,2025-04-08,3.6
-299,Ruba,Srinagar,Books,450,1.0,2025-04-09,3.908571428571429
+299,Ruba,Srinagar,Books,450,1.0,2025-04-09,
 300,Imad,Pampore,Electronics,49000,1.0,2025-04-10,4.4
 302,Zoya,Pampore,Clothing,9500,50.0,2025-04-13,4.2
 303,Arman,Anantnag,Books,5,1.0,2025-04-14,1.0
